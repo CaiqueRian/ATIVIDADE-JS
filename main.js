@@ -8,8 +8,6 @@ let result = (num1 + num2 + num3) / 3
 console.log(result); */
 
 
-
-
 // 2. Faça um programa que entre com o nome e o salário de um funcionário e mostre seu novo salário, sabendo que o mesmo teve um aumento de 10%.
 
 
